@@ -31,3 +31,7 @@
 .img-slider{
     margin-top: 63px;
 }
+footer a{
+    text-decoration: none;
+    color: #212529;
+}
